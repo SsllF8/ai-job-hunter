@@ -154,7 +154,7 @@ streamlit run app.py
 | AI 匹配 | DeepSeek API | 简历-岗位匹配分析 |
 | 消息推送 | PushPlus API | 微信消息推送 |
 
-### 💡 面试要点 / Interview Talking Points
+### 💡 项目要点 / Interview Talking Points
 
 **1. 为什么不直接用招聘平台的 API？**
 - 主流招聘平台（Boss 直聘、拉勾等）没有公开 API，且反爬严格
